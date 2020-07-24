@@ -1,0 +1,25 @@
+21-Apr-2020 (21:16:13.367310),USER: hello,SFIT: hey,1
+21-Apr-2020 (21:16:39.301582),USER: who is cmpn hod,SFIT: CMPN HOD:
+DR. KAVITA SONAWANE:
+* HOD & Professor
+* Email :kavitasonawane@sfit.ac.in
+* Phone : 28928585-236
+* Area of Interest : Image Processing, Image retreival, Medical Image Analysis, Software Engineering and analysis modeling .,1
+21-Apr-2020 (21:17:44.772017),USER: who is safa hamdare,SFIT: SAFA SALMAN HAMDARE
+* Assistant Professor
+* Email :safahamdare@sfit.ac.in
+* Phone : 02228928585-4071
+* Area of Interest : Database, Distributed Database, Advance Database,Datawarehousing and Mining, Artificail Intelligence, Robotics .,1
+21-Apr-2020 (21:17:52.071832),USER: how are you,SFIT: It's a pleasure to meet you.,1
+21-Apr-2020 (21:18:14.815783),USER: where is rgit,SFIT: I am sorry! I did not understand this.,0
+21-Apr-2020 (21:19:28.749363),USER: sfit contact ,SFIT: Contact us:
+https://www.sfit.ac.in/contact.php .,1
+21-Apr-2020 (21:20:06.707585),USER: what is student council,SFIT: Student Council:
+https://www.sfit.ac.in/Student-Council.php .,1
+21-Apr-2020 (21:20:16.776808),USER: newsletter,SFIT: Newsletter bits-n-bytes:
+https://www.sfit.ac.in/newsletter.php .,1
+21-Apr-2020 (21:20:31.020637),USER: who is snehal kulkarni,SFIT: SNEHAL KULKARNI
+* Assistant Professor
+* Email :snehalkulkarni@sfit.ac.in
+* Phone : 02228928585-269
+* Area of Interest :  Software engineering ,E business , Operational research , Enetrprice resource planning and Supply chain management , Discrete Mathamatics ,E commerce,project management .,1
